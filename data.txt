@@ -1,0 +1,107 @@
+3
+Money
+Pink Floyd
+382
+PF
+1973-05-07
+DSOM
+rock
+
+7
+Dreams
+Fleetwood Mac
+257
+FM
+1977-03-24
+Rumours
+classic rock
+
+4
+Blowin' in the Wind
+Bob Dylan
+165
+BD
+1963-08-13
+Freewheelin' BD
+rock
+
+11
+Say It Ain't So
+Weezer
+258
+WZR
+1995-07-13
+OPSSGF
+indie rock
+
+5
+Hey Joe
+Jimi Hendrix
+210
+JM
+1967-12-17
+Are You Experienced
+classic rock
+
+1
+Dashboard
+Modest Mouse
+246
+MM
+2007-01-16
+WWDBSS
+indie
+
+10
+Althea
+Grateful Dead
+412
+GD
+1980-04-28
+Go to Heaven
+blues rock
+
+6
+Float On
+Modest Mouse
+208
+MM
+2014-02-14
+10 Years Pure
+indie
+
+9
+Noise Pollution
+Portugal The Man
+225
+PTM
+2017-06-16
+NP
+indie rock
+
+2
+Jungle
+Tash Sultana
+315
+TS
+2016-09-05
+Jungle
+indie
+
+12
+Sound of Madness
+Shinedown
+233
+SD
+2008-06-24
+SOM
+hard rock
+
+8
+Oxygen
+Dirty Heads
+225
+DH
+2016-07-15
+Oxygen
+indie
